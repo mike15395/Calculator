@@ -1,0 +1,21 @@
+.container {
+  width: 500px;
+  background-color: rgba(173, 181, 253, 0.349);
+  font-family: sans-serif;
+  font-size: 30px;
+  text-align: center;
+  border: 3px solid rgba(4, 4, 5, 0.219);
+  box-shadow: 5px 5px 3px #5454c3;
+  margin-top: 10px;
+}
+
+.row :hover {
+  border: solid 1px black;
+  background-color: rgba(61, 73, 185, 0.349);
+  font-family: sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+.col {
+  border: solid 1px black;
+}
